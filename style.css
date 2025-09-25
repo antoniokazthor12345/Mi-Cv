@@ -192,8 +192,8 @@ body {
     margin-bottom: 10px;
 }
 
-p {
-    color: #fff;
+.p {
+    color: #333;
     margin: 1px 0 15px 0;
     font-size: .95rem;
 }
