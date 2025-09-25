@@ -80,7 +80,7 @@ body {
 }
 
 .title {
-    color: #fff;
+    color: #003147;
     text-transform: uppercase;
     font-weight: 600;
     letter-spacing: 1px;
@@ -126,7 +126,7 @@ body {
 }
 
 .contactInfo.education h4 {
-    color: #fff;
+    color: #003147;
     font-weight: 300;
 }
 
