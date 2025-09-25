@@ -220,6 +220,10 @@ body {
     font-size: 16px;
 }
 
+.about .box .text p {
+     color: #333;
+}
+
 .skills .box {
     position: relative;
     width: 100%;
