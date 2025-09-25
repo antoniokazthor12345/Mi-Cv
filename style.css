@@ -220,8 +220,8 @@ body {
     font-size: 16px;
 }
 
-.about .box .year_company p {
-     color: #fff;
+.about .box .text .year_company p {
+     color: #03a9f4;
 }
 
 .skills .box {
