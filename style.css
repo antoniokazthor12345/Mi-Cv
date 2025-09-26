@@ -166,12 +166,13 @@ body {
 
 .container .right_Side {
     position: relative;
+    background: #FEBAAD;
     padding: 40px;
 }
 
 .about {
    margin-bottom: 50px;
-   background: #FFD9C9;
+   
 }
 
 .about:last-child {
