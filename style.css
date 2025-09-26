@@ -211,13 +211,13 @@ body {
 .about .box .year_company h5 {
     text-transform: uppercase;
     color: #03a9f4;
-    font-weight: 600;
+    font-weight: 800;
 }
 
 .about .box .text h4 {
     text-transform: uppercase;
     color: #03a9f4;
-    font-size: 16px;
+    font-size: 19px;
 }
 
 .about .box .text .year_company p {
