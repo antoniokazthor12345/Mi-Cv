@@ -273,6 +273,14 @@ body {
     width: 25px;
 }
 
+.about, .skills, .interest {
+    padding: 20px;   
+    margin-bottom: 30px;  
+    background: #fff; /* op
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.05); /* opcional */
+}
+
 @media (max-width: 1000px) {
     .container {
         margin: 10px;
