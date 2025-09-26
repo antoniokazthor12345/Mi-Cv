@@ -269,16 +269,16 @@ body {
 
 .interest ul li .fa {
     color: #03a9f4;
-    font-size: 18px;
+    font-size: 13px;
     width: 25px;
 }
 
 .about, .skills, .interest {
     padding: 20px;   
     margin-bottom: 30px;  
-    background: #fff; /* op
+    background: #fff;
     border-radius: 10px;
-    box-shadow: 0 4px 10px rgba(0,0,0,0.05); /* opcional */
+    box-shadow: 0 4px 10px rgba(0,0,0,0.05);
 }
 
 @media (max-width: 1000px) {
